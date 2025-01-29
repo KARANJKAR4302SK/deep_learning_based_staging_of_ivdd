@@ -1,0 +1,5 @@
+classified_images/Grade1/dummy.txt
+classified_images/Grade2/dummy.txt
+classified_images/Grade3/dummy.txt
+classified_images/Grade4/dummy.txt
+classified_images/Grade5/dummy.txt
